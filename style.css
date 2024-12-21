@@ -1,0 +1,67 @@
+.gg{
+background-color: gold;
+border: red 5px solid;
+border-radius: 15px;
+text-align: center;
+padding: 5px;
+
+}
+.hh{
+    border: green solid 5px;
+    border-radius: 25px;
+}
+
+.ol{
+    display: flex;
+    justify-content: center;
+   
+}
+
+
+.ai{
+    background-color: greenyellow;
+    border: red 5px solid;
+    border-radius: 15px;
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    padding: 20px;
+}
+.ul1{
+    border: 10px solid black;
+    border-radius: 10px;
+    background-color: red;
+}
+
+
+.ol1{
+    border: 10px solid black;
+    border-radius: 10px;
+    background-color: green;
+}
+
+
+
+.ul2{
+    border: 10px solid black;
+    border-radius: 10px;
+    background-color: red;
+}
+
+
+.santa{
+    background-color: aqua;
+    border: dashed 15px pink;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+
+.haker{
+    background-color: black;
+    border: dotted green 10px;
+    margin-top: 10px;
+    padding: 5px;
+}
+
